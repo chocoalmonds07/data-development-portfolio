@@ -7,14 +7,6 @@ I am particularly interested in roles at the intersection of data, systems, and 
 
 ---
 
-## 🔹 What I Do
-- Structure and clean messy, real-world datasets  
-- Analyze and interpret data for decision-making  
-- Design simple data systems and workflows  
-- Translate technical and research outputs into clear, actionable insights  
-
----
-
 ## 📁 Portfolio Overview
 
 ### 🔧 Data & Systems Projects
